@@ -1,2 +1,2 @@
 # Prueba
-Para iniciiar el trabajo 
+Para iniciar el trabajo 
